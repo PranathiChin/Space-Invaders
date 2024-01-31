@@ -17,3 +17,6 @@ This project is a classic Space Invaders game implemented using Java and Process
 1. Clone the repository:
    ```bash
    git clone https://github.com/PranathiChin/Space-invaders.git
+2. Open up processing file
+3. Press Play😸!
+   
